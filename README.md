@@ -10,7 +10,4 @@ This project is developed as part of the Naan Mudhalvan program.
 ## Technologies
 HTML
 CSS
-JavaScript
-
-## Author
-Your Name
+Java Script 
